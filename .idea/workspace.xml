@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93e6b76f-7d78-45f7-b79c-70b69f5b52e3" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <list default="true" id="93e6b76f-7d78-45f7-b79c-70b69f5b52e3" name="Changes" comment="ParameterizedTest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,14 +206,32 @@
       <option name="project" value="LOCAL" />
       <updated>1666808881818</updated>
     </task>
-    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1666810811311</created>
+    <task id="LOCAL-00002" summary="ParameterizedTest">
+      <created>1666809558166</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1666810811311</updated>
+      <updated>1666809558166</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ParameterizedTest">
+      <created>1666809749161</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666809749161</updated>
+    </task>
+<<<<<<<<< Temporary merge branch 1
+    <option name="localTasksCounter" value="4" />
+=========
+    <task id="LOCAL-00004" summary="ParameterizedTest">
+      <created>1666810407250</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666810407250</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+>>>>>>>>> Temporary merge branch 2
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,8 +247,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ParameterizedTest" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="ParameterizedTest" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Lesson7$SearchingTickets.ic" NAME="SearchingTickets Coverage Results" MODIFIED="1666806483486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
