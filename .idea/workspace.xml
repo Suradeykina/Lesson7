@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93e6b76f-7d78-45f7-b79c-70b69f5b52e3" name="Changes" comment="ParameterizedTest" />
+    <list default="true" id="93e6b76f-7d78-45f7-b79c-70b69f5b52e3" name="Changes" comment="ParameterizedTest">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,6 +201,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665074784905</updated>
     </task>
+    <task id="LOCAL-00001" summary="ParameterizedTest">
+      <created>1666808881818</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666808881818</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,6 +221,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ParameterizedTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="ParameterizedTest" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Lesson7$SearchingTickets.ic" NAME="SearchingTickets Coverage Results" MODIFIED="1666806483486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
